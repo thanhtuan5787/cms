@@ -1,0 +1,5 @@
+{
+    "api_auth_url":"http://34.143.209.195:8081/api/auth/",
+    "api_base_url":"http://34.143.209.195:8081/api/pages/",
+    "consumer_base_url":"http://34.143.209.195:3000/index.html?name="
+}
